@@ -1,12 +1,10 @@
 ### Uniqport Cloud Tools
 A set of basic cloud tools written in Golang aims to be used in development environments to emulate production at the infrastructure level. <br>
 
-----
-
-Roadmap: <br>
+#### Projects Roadmap: <br>
 
 - [ ] 🟡 **utils**: Utilities that will be mainly used in the other uniqport cloud tools. Such as TCP / WebSocket / dependency injection mediators. 
-- [ ] 🔴 **vim-client**: a VIM (Virtual Infrastructure Manager) cli for easily managing virtual infrastructure resources, and simplifying tasks like creating, starting, stopping, and monitoring virtual servers. 🔴
+- [ ] 🔴 **vim-client**: a VIM (Virtual Infrastructure Manager) cli for easily managing virtual infrastructure resources, and simplifying tasks like creating, starting, stopping, and monitoring virtual servers.
 - [ ] 🔴 **virtualization-manager**: Repository for the server-side component responsible for managing the virtual infrastructure, serving as the counterpart to the VIM client.
 - [ ] 🔴 **hypervisor**:  Responsible for managing and orchestrating virtual server instances
 - [ ] 🔴 **virtual-server**: Individual instances running within the hypervisor.
@@ -19,5 +17,4 @@ Roadmap: <br>
 ----
 _These tools mainly serve the purpose of understanding, learning, and creating a cloud infrastructure, not mainly to be used in production. Feel free to contribute, create issues, or open a discussion for your questions_
 
--------
 <small>_Maintainer(s): [kaandesu](https://github.com/kaandesu)_</small> 
